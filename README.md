@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stéphan Zych</h1>
-<h3 align="center">CTO/Co-Founder and Lead Developer for [Cherry Pulp](https://cherrypulp.com)</h3>
+<h3 align="center">CTO/Co-Founder and Lead Developer for <a href="https://cherrypulp.com">Cherry Pulp</a></h3>
 
 
 <!--

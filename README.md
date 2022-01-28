@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stéphan Zych</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/monkeymonk/monkeymonk/master/wave.gif" width="30px">, I'm Stéphan Zych</h1>
 <h3 align="center">CTO/Co-Founder and Lead Developer for <a href="https://cherrypulp.com">Cherry Pulp</a></h3>
 
 <div align="center">

@@ -6,10 +6,13 @@
   ⚡ if you're looking for a job, look at <a href="https://cherrypulp.com/fr/carriere/">cherrypulp.com/fr/carriere</a>
 </div>
 
-<div><br><br>
+<div>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=monkeymonk&show_icons=true" alt="" align="left" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkeymonk&layout=compact" alt="" align="right" height="150" />
+  <br><br>
 </div>
+
 <!--
 **monkeymonk/monkeymonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,4 +26,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=monkeymonk.monkeymonk)
+https://cherrypulp.com/content/uploads/2020/01/-23
 -->

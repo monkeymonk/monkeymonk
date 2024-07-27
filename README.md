@@ -2,7 +2,7 @@
 <h3 align="center">Lead Developer at <a href="https://collaborationbetterstheworld.com/" target="_blank">CBTW Belgium</a> (previously co-founder & CTO at Cherry Pulp, acquired by CBTW)</h3>
 
 <div align="center">
-  <img src="cherrypulp-office.jpg" alt="Cherry Pulp office"/>
+  <!--<img src="cherrypulp-office.jpg" alt="Cherry Pulp office"/>-->
   ⚡ if you're looking for a job, look at <a href="[https://cherrypulp.com/fr/carriere/](https://collaborationbetterstheworld.com/careers/)">cbtw.tech/careers</a>
 </div>
 

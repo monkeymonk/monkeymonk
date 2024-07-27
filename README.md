@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/monkeymonk/monkeymonk/main/wave.gif" width="30px">, I'm Stéphan Zych</h1>
-<h3 align="center">CTO/Co-Founder and Lead Developer for <a href="https://cherrypulp.com">Cherry Pulp</a></h3>
+<h3 align="center">Lead Developer at <a href="https://collaborationbetterstheworld.com/" target="_blank">CBTW Belgium</a> (previously co-founder & CTO at Cherry Pulp, acquired by CBTW)</h3>
 
 <div align="center">
   <img src="cherrypulp-office.jpg" alt="Cherry Pulp office"/>
-  ⚡ if you're looking for a job, look at <a href="https://cherrypulp.com/fr/carriere/">cherrypulp.com/fr/carriere</a>
+  ⚡ if you're looking for a job, look at <a href="[https://cherrypulp.com/fr/carriere/](https://collaborationbetterstheworld.com/careers/)">cbtw.tech/careers</a>
 </div>
 
 <div>
